@@ -171,7 +171,7 @@
         <version.lib.rxjava>2.0.8</version.lib.rxjava>
         <version.lib.slf4j>1.7.26</version.lib.slf4j>
         <version.lib.smallrye-openapi>1.1.1</version.lib.smallrye-openapi>
-        <version.lib.snakeyaml>1.24</version.lib.snakeyaml>
+        <version.lib.snakeyaml>1.26</version.lib.snakeyaml>
         <version.lib.spotbugs-annotations>3.1.12</version.lib.spotbugs-annotations>
         <version.lib.testng>6.13.1</version.lib.testng>
         <version.lib.transaction-api>1.2</version.lib.transaction-api>
